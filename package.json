@@ -1,0 +1,30 @@
+{
+    "name": "react-native-psychic-barnacle",
+    "version": "1.0.0",
+    "description": "this is designed for barnacle",
+    "homepage": "https://github.com/shirleysteven/react-native-psychic-barnacle",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "react-native-psychic-barnacle"
+    ],
+    "author": {
+        "name": "barnacle",
+        "email": "barnacle@example.com"
+    },
+    "license": "MIT",   
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shirleysteven/react-native-psychic-barnacle.git"
+    },
+    "peerDependencies": {
+        "react": "*",
+        "react-native": "*",
+        "react-native-splash-screen": "3.3.0",
+        "react-native-root-toast": "3.4.1",
+        "react-native-network-info": "5.2.1"
+    }
+  }
+  
